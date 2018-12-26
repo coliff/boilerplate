@@ -33,7 +33,7 @@
   "devDependencies": {
     "@babel/cli": "7.0.0-beta.37",
     "@babel/core": "7.0.0-beta.37",
-    "@babel/preset-env": "7.0.0-beta.37",
+    "@babel/preset-env": "7.2.3",
     "apache-server-configs": "^2.15.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
