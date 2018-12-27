@@ -59,7 +59,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-rollup": "^2.16.2",
     "gulp-run-command": "0.0.9",
-    "gulp-sass": "^3.2.1",
+    "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
     "rollup": "^0.53.4",
