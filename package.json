@@ -34,7 +34,7 @@
     "@babel/cli": "7.0.0-beta.37",
     "@babel/core": "7.0.0-beta.37",
     "@babel/preset-env": "7.0.0-beta.37",
-    "apache-server-configs": "^2.15.0",
+    "apache-server-configs": "^3.0.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-plugin-external-helpers": "^6.22.0",
